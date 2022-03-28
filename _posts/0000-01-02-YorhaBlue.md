@@ -2,5 +2,5 @@
 layout:slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Don't git got, we go git.
 Use the left arrow to go back! 
